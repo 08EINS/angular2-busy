@@ -34,10 +34,10 @@
     "tsc": "node_modules/.bin/tsc"
   },
   "peerDependencies": {
-    "@angular/animations": ">= 4.0.0 < 14",
-    "@angular/common": ">= 4.0.0 < 14",
-    "@angular/core": ">= 4.0.0 < 14",
-    "@angular/platform-browser": ">= 4.0.0 < 14",
+    "@angular/animations": ">= 4.0.0 < 13",
+    "@angular/common": ">= 4.0.0 < 13",
+    "@angular/core": ">= 4.0.0 < 13",
+    "@angular/platform-browser": ">= 4.0.0 < 13",
     "rxjs": ">= 5.0.0 < 7"
   },
   "devDependencies": {
